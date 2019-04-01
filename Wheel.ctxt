@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Wheel
+comment1.params=r
+comment1.target=Wheel(double)
+comment2.params=n
+comment2.target=void\ turn(double)
+comment3.params=
+comment3.target=double\ getDistance()
+numComments=4

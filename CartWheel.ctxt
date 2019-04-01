@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=CartWheel
+comment1.params=r\ a
+comment1.target=CartWheel(double,\ int)
+comment2.params=
+comment2.target=double\ getArea()
+numComments=3
